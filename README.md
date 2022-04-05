@@ -1,8 +1,8 @@
-⟡ Hi, I’m @chantellrae [SHAHN-tel ray]
-⟡ I love photography, gaming, dachshunds, and nature!
-⟡ I’m currently learning how to become a front-end developer.
-⟡ I've owned my photography business for 8 years!
-⟡ I’m looking to collaborate on anything that helps people, bonus points if it's a cute aesthetic!
+⟡ Hi, I’m Chantell Rae. [SHAHN-tel ray]<br>
+⟡ I love photography, gaming, dachshunds, and nature!<br>
+⟡ I’m currently learning how to become a front-end developer.<br>
+⟡ I've owned my photography business for 8 years!<br>
+⟡ I’m looking to collaborate on anything that helps people, bonus points if it's a cute aesthetic. ♡<br>
 ⟡ You can reach me at chantellraecruz@gmail.com
 
 <!---
