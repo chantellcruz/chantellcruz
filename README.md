@@ -1,4 +1,4 @@
-⟡ Hi, I’m Chantell Rae. [SHAHN-tel ray]<br>
+⟡ Hi, I’m Chantell. [SHAHN-tel]<br>
 ⟡ I love photography, gaming, dachshunds, and nature!<br>
 ⟡ I’m currently learning how to become a front-end developer.<br>
 ⟡ I've owned my photography business for 8 years! Check it out here: https://chantellrae.com<br>
