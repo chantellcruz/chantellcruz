@@ -1,7 +1,7 @@
 ⟡ Hi, I’m Chantell Rae. [SHAHN-tel ray]<br>
 ⟡ I love photography, gaming, dachshunds, and nature!<br>
 ⟡ I’m currently learning how to become a front-end developer.<br>
-⟡ I've owned my photography business for 8 years!<br>
+⟡ I've owned my photography business for 8 years! Check it out here: https://chantellrae.com<br>
 ⟡ I’m looking to collaborate on anything that helps people, bonus points if it's a cute aesthetic. ♡<br>
 ⟡ You can reach me at chantellraecruz@gmail.com
 
