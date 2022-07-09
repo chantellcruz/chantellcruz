@@ -1,8 +1,47 @@
-⟡ Hi, I’m Chantell. [SHAHN-tel]<br>
-⟡ I love photography, gaming, dachshunds, and the great outdoors!<br>
-⟡ I've owned my photography business for 8 years! Check it out here: https://chantellrae.com<br>
-⟡ I love creating things that help people, bonus points if it's cute & aesthetic. ♡<br>
-⟡ You can reach me at chantellraecruz@gmail.com
+Hi 👋 My name is Chantell
+=========================
+
+Full-Stack Java Web Developer (in training) & Photographer
+----------------------------------------------------------
+
+I've been a professional portrait and wedding photographer since 2014. Creating my portfolio website, I found that I really enjoyed that process. Currently in the midst of a career shift, as I move to doing photography part-time.
+
+⟡ I'm based in Minneapolis, Minnesota
+⟡ See my photography portfolio at [chantellrae.com](http://chantellrae.com)
+⟡ You can contact me at [chantellraecruz@gmail.com](mailto:chantellraecruz@gmail.com)
+⟡ I'm currently working on [my personal website](http://chantellcruz.com) & completing my training in Java
+⟡ I'm learning Java | UX/UI
+⟡ I'm open to collaborating on anything focusing towards sustainability, travel, the great outdoors, or animals!
+⟡ My design style is: intentional, minimalistic, and cute
+⟡ I can read and write in Aurebesh
+
+<a href="https://www.twitter.com/chantellraecruz" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/chantellraecruz?logo=twitter&style=for-the-badge&color=10b981&labelColor=1c1917"
+/></a>
+
+### Skills
+
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/cruzctrl#5973" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/chantellcruz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/chantellrae" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/chantellcruz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/chantellraecruz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/chantellcruz"><img src="https://github-readme-stats.vercel.app/api?username=chantellcruz&show_icons=true&hide=prs,&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="chantellcruz's GitHub stats" /></a>
+
+<a href="https://github.com/chantellcruz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chantellcruz&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
 <!---
 chantellrae/chantellrae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
