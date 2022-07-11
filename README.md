@@ -1,7 +1,7 @@
 Hi, I'm Chantell!
 =========================
 
-Full-Stack Java Web Developer (in training) & Photographer
+Full-Stack Java Developer (in training) & Photographer
 ----------------------------------------------------------
 
 I've been a professional portrait and wedding photographer since 2014. Creating my portfolio website, I found that I really enjoyed that process. Currently in the midst of a career shift, as I move to doing photography part-time.<br>
