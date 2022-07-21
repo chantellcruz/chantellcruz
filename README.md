@@ -1,19 +1,15 @@
-Hi, I'm Chantell!
+Full-Stack Java Developer & Photographer
 =========================
-
-Full-Stack Java Developer (in training) & Photographer
-----------------------------------------------------------
 
 I've been a professional portrait and wedding photographer since 2014. Creating my portfolio website, I found that I really enjoyed that process. Currently in the midst of a career shift, as I move to doing photography part-time.<br>
 
 ⟡&nbsp; I'm based in Minneapolis, Minnesota<br>
 ⟡&nbsp; See my photography portfolio at [chantellrae.com](http://chantellrae.com)<br>
 ⟡&nbsp; You can contact me at [chantellraecruz@gmail.com](mailto:chantellraecruz@gmail.com)<br>
-⟡&nbsp; I'm currently working on [my personal website](http://chantellcruz.com) & completing my training in Java<br>
-⟡&nbsp; I'm learning Java | UX/UI<br>
+⟡&nbsp; I'm currently working on [my personal website](http://chantellcruz.com)<br>
 ⟡&nbsp; I'm open to collaborating on anything focusing towards sustainability, travel, the great outdoors, or animals!<br>
 ⟡&nbsp; My design style is: intentional, minimalistic, and cute<br>
-⟡&nbsp; I can read and write in Aurebesh<br>
+⟡&nbsp; Fun fact: I can read and write in Aurebesh :-)<br>
 
 ### Skills
 
@@ -28,7 +24,7 @@ I've been a professional portrait and wedding photographer since 2014. Creating 
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/cruzctrl#5973" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/chantellcruz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/chantellrae" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/chantellcruz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/chantellraecruz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/cruzctrl#5973" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/chantellcruz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/chantellrae" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/chantellcruz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/chantellraecruz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### My GitHub Stats
 
