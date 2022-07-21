@@ -1,7 +1,7 @@
 Full-Stack Java Developer & Photographer
 =========================
 
-I've been a professional portrait and wedding photographer since 2014. Creating my portfolio website, I found that I really enjoyed that process. Currently in the midst of a career shift, as I move to doing photography part-time.<br>
+I've been a professional portrait and wedding photographer since 2014. Currently in the midst of a career shift, as I move to doing photography part-time.<br>
 
 ⟡&nbsp; I'm based in Minneapolis, Minnesota<br>
 ⟡&nbsp; See my photography portfolio at [chantellrae.com](http://chantellrae.com)<br>
