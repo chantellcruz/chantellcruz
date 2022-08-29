@@ -7,7 +7,7 @@ I've been a professional portrait and wedding photographer since 2014. Currently
 ⟡&nbsp; See my photography portfolio at [chantellrae.com](http://chantellrae.com)<br>
 ⟡&nbsp; You can contact me at [chantellraecruz@gmail.com](mailto:chantellraecruz@gmail.com)<br>
 ⟡&nbsp; I'm currently working on [my personal website](http://chantellcruz.com)<br>
-⟡&nbsp; I'm open to collaborating on anything focusing towards sustainability, travel, the great outdoors, or animals!<br>
+⟡&nbsp; I'm open to collaborating on anything focusing towards sustainability, travel, the great outdoors, video games, or animals!<br>
 ⟡&nbsp; My design style is: intentional, minimalistic, and cute<br>
 ⟡&nbsp; Fun fact: I can read and write in Aurebesh :-)<br>
 
