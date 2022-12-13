@@ -1,14 +1,11 @@
-Full-Stack Java Developer & Photographer
+Wedding & portrait photographer turned full-stack developer<br>
 =========================
-
-I've been a professional portrait and wedding photographer since 2014. Currently in the midst of a career shift pursuing a new passion, continuing to do photography part-time.<br>
-
-⟡&nbsp; I'm based in Minneapolis, Minnesota<br>
+⟡&nbsp; Based in Minneapolis, Minnesota<br>
 ⟡&nbsp; See my photography portfolio at [chantellrae.com](http://chantellrae.com)<br>
-⟡&nbsp; You can contact me at [chantellraecruz@gmail.com](mailto:chantellraecruz@gmail.com)<br>
-⟡&nbsp; I'm currently working on [my personal website](http://chantellcruz.com)<br>
-⟡&nbsp; I'm open to collaborating on anything focusing towards sustainability, travel, the great outdoors, video games, or animals!<br>
-⟡&nbsp; My design style is: intentional, minimalistic, and cute<br>
+⟡&nbsp; Contact me at [chantellraecruz@gmail.com](mailto:chantellraecruz@gmail.com)<br>
+⟡&nbsp; Currently working on [my personal website](http://chantellcruz.com)<br>
+⟡&nbsp; My interests include travel, the great outdoors, video games, health & fitness, sustainability, and animals!<br>
+⟡&nbsp; Aesthetic, accessible designss are what I strive for<br>
 ⟡&nbsp; Fun fact: I can read and write in Aurebesh :-)<br>
 
 ### Skills
