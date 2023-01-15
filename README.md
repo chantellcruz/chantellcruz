@@ -5,7 +5,7 @@ Wedding & portrait photographer turned full-stack developer<br>
 ⟡&nbsp; Contact me at [chantellraecruz@gmail.com](mailto:chantellraecruz@gmail.com)<br>
 ⟡&nbsp; Currently working on [my personal website](http://chantellcruz.com)<br>
 ⟡&nbsp; My interests include travel, the great outdoors, video games, health & fitness, sustainability, and animals!<br>
-⟡&nbsp; Aesthetic, accessible designss are what I strive for<br>
+⟡&nbsp; Aesthetic, accessible designs are what I strive for<br>
 ⟡&nbsp; Fun fact: I can read and write in Aurebesh :-)<br>
 
 ### Skills
