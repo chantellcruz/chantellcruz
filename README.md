@@ -23,13 +23,6 @@ Wedding photographer turned full-stack developer<br>
 <a href="http://www.instagram.com/chantellrae" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=white&style=for-the-badge"></a>
 
 
-### My GitHub Stats
-
-<a href="http://www.github.com/chantellcruz"><img src="https://github-readme-stats.vercel.app/api?username=chantellcruz&show_icons=true&hide=prs,&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="chantellcruz's GitHub stats" /></a>
-
-<a href="https://github.com/chantellcruz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chantellcruz&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
 <!---
 chantellrae/chantellrae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
