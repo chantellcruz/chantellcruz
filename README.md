@@ -15,14 +15,6 @@ Wedding photographer turned full-stack developer<br>
 ### Tools
 <img alt="Adobe" src="https://img.shields.io/badge/adobe-FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/> <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?logo=adobe-lightroom&logoColor=%23071d34&style=for-the-badge"> <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=%23071d34&style=for-the-badge"> <img alt="Figma" src="https://img.shields.io/badge/Figma%20-F24E1E?&logo=figma&logoColor=white&style=for-the-badge"> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?&logo=visual-studio-code&logoColor=white&style=for-the-badge"> <img alt="IntelliJ Idea" src="https://img.shields.io/badge/IntelliJ%20Idea-000000?&logo=intellij-idea&logoColor=white&style=for-the-badge"> <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?&logo=eclipse-ide&logoColor=white&style=for-the-badge"> <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?&logo=discord&logoColor=white&style=for-the-badge"> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?&logo=git&logoColor=white&style=for-the-badge">  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-%23FC6D26?&logo=gitlab&logoColor=white&style=for-the-badge"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?&logo=github&logoColor=white&style=for-the-badge"> <img alt="Red Hat Open Shift" src="https://img.shields.io/badge/Red%20Hat%20Open%20Shift-EE0000?&logo=red-hat-open-shift&logoColor=white&style=for-the-badge"> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?&logo=docker&logoColor=white&style=for-the-badge">
 
-
-### Socials
-<a href="https://www.github.com/chantellcruz" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?&logo=github&logoColor=white&style=for-the-badge"></a>
-<a href="https://www.linkedin.com/in/chantellcruz" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?&logo=linkedin&logoColor=white&style=for-the-badge"></a>
-<a href="https://www.twitter.com/chantellraecruz" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?&logo=twitter&logoColor=white&style=for-the-badge"></a>
-<a href="http://www.instagram.com/chantellrae" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=white&style=for-the-badge"></a>
-
-
 <!---
 chantellrae/chantellrae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
